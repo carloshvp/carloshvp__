@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on bringing together IoT and Machine Learning. From the ultra-low-power edge ([TinyML](https://www.meetup.com/tinyML-Enabling-low-Power-ML-at-the-edge-Stuttgart-Germany/)) to the clouds (AWS and Azure so far)
 - 🌱 I’m currently learning a bunch of things, because the topic above is sooo wide!
-- 👯 I’m looking to collaborate on anything related to IoT devices doing inferencing with optimized deep learning models (e.g. TVM, TensorFlow Lite Micro, ...)
+- 👯 I’m looking to collaborate on anything related to IoT devices doing inferencing with optimized deep learning models (e.g. TVM, TensorFlow Lite Micro, AWS SageMaker Neo...)
 - 🤔 I’m looking for experts in the domain who are interested in public speaking (e.g. [TinyML](https://www.meetup.com/tinyML-Enabling-low-Power-ML-at-the-edge-Stuttgart-Germany/) talks, where I am one of the organizers) or simply exchanging experiences and networking
 - 💬 Ask me about my favourite food and I will get in trouble
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carloshvp) works fine for me
