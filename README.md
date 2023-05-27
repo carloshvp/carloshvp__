@@ -8,7 +8,7 @@
 
 [![Youtube video](https://img.youtube.com/vi/iCXlPVKCsBE/0.jpg)](https://www.youtube.com/watch?v=iCXlPVKCsBE)
 - 💬 Ask me about my favourite food and I will get in trouble
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carloshvp) works fine for me
+- 📫 How to reach me: both [LinkedIn](https://www.linkedin.com/in/carloshvp) and [GitHub](https://github.com/carloshvp) work fine for me
 
 <!--
 **carloshvp/carloshvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
